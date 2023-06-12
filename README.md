@@ -52,6 +52,7 @@ The Expense Tracker App uses the following libraries:
 ![Dashboard](screenshorts/dashboard.png)
 
 ![Expense List](screenshorts/expense-list.png)
+![application](screenshorts/vid.mp4)
 
 ## License
 
